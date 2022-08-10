@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"context"
 	"github.com/caddyserver/caddy/v2"
-	"github.com/mholt/caddy-l4/layer4"
+	"github.com/jamison-phillips/caddy-l4/layer4"
 	"io"
 	"net"
 	"sync"
